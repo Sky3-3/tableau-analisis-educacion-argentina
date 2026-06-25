@@ -8,7 +8,7 @@ Este repositorio contiene un proyecto práctico de Inteligencia de Negocios (BI)
 
 Para desplegar la interfaz gráfica de forma directa en la documentación de tu portafolio, guarda la captura de pantalla de tu lienzo interactivo en la raíz de este repositorio con el nombre exacto de `dashboard_educacion.png`:
 
-![Dashboard de Educación Argentina 2023](<img width="1457" height="576" alt="image" src="https://github.com/user-attachments/assets/3ef300e3-2ae7-4b70-acb5-ea1a62e21afc" />)
+<img width="1457" height="576" alt="image" src="https://github.com/user-attachments/assets/3ef300e3-2ae7-4b70-acb5-ea1a62e21afc" />
 
 🔗 **[Interactuar con el Tablero en Vivo en Tableau Public](https://public.tableau.com/app/profile/maria.del.cielo.robledo/viz/DataArgentinaEducacion/DATOSEDUCACION)**
 
